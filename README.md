@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in ...
 
-Math, data, linux, anything puzzle related.
+Math, data, linux, and anything puzzle related.
 
 In particular, I like ricing my linux desktop (see r/unixporn on reddit).
 I also enjoy solving puzzles like the ones on project euler and advent of code.
