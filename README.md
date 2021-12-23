@@ -14,6 +14,8 @@ I am also working on improving my skills with google sheets/excel and SQL.
 
 - 📫 How to reach me ...
 
+Email me at tunasplam@gmail.com
+
 <!---
 tunasplam/tunasplam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
