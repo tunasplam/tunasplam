@@ -9,8 +9,7 @@ I also enjoy solving puzzles like the ones on project euler and advent of code.
 
 - 🌱 I’m currently learning ...
 
-Skills for data analysis. This includes pandas, seaborn, all the fancy algorithms in sklearn and statsmodel.
-I am also working on improving my skills with google sheets/excel and SQL.
+Skills for data analysis particularly gis software. Also working on automating stuff for Excel.
 
 - 📫 How to reach me ...
 
