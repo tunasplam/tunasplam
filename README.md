@@ -9,7 +9,7 @@ I also enjoy solving puzzles like the ones on project euler and advent of code.
 
 - 🌱 I’m currently learning ...
 
-Skills for data analysis particularly gis software. Also working on automating stuff for Excel.
+Skills for data analysis particularly gis software.
 
 - 📫 How to reach me ...
 
