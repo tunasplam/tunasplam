@@ -1,4 +1,4 @@
-I do lots of GIS stuff and math stuff. Also some for-fun programming on the side. As of today (072023) I have not touched the vast majority of my public repo stuff in a very very long time (and I am sure that I would vommit if I looked at some of the stuff in it).
+Currently employed at GeoStrategies where I build and deploy models, maintain the database, develop and deploy pipelines, develop new products, and so much more. The code found on this page is mostly hobby projects from years past. Nowadays, my hobbies include reading, backpacking, riding motorcyles, and relaxing with my family.
 
 <!---
 tunasplam/tunasplam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
